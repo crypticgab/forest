@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap');
+
+body{
+    background-color: rgb(60, 80, 80);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container{
+    margin-top: 50px;
+    max-width:80%;
+}
+
+#forest{
+    width:100%;
+}
+
+.btn{
+    color: rgb(212, 162, 34);
+}
+
+.btn:hover{
+    color: rgb(151, 116, 28);
+}
